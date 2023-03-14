@@ -43,4 +43,12 @@ html, body{
     z-index: 2;
 }
 
-
+.camera-aim{
+    width: 200px;
+    height: 300px;
+    border: 2px solid white;
+    position: fixed;
+    bottom: calc(50% - 150px);
+    left: calc(50% - 100px);
+    z-index: 2;
+}
